@@ -1,0 +1,1 @@
+﻿To run the app you need to first open the package manager console and then run ```update-database``` on the CHUSHKA.Data project. After that check the DefaultConnection in appsettings.json, the default is .

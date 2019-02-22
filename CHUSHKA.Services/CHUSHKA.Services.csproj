@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.1.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CHUSHKA.Data\CHUSHKA.Data.csproj" />
+    <ProjectReference Include="..\CHUSHKA.Models\CHUSHKA.Models.csproj" />
+  </ItemGroup>
+
+</Project>
