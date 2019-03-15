@@ -2,11 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CHUSHKA.Data;
+using CHUSHKA.Models;
 using CHUSHKA.Models.Enums;
 using CHUSHKA.Services.Contracts;
 using CHUSHKA.Web.Models.Products;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -15,6 +18,7 @@ namespace CHUSHKA.Web.Controllers
     public class ProductsController : Controller
     {
         private readonly IProductsService productsService;
+        private readonly ChushkaDbContext db;
 
         public ProductsController(IProductsService productsService)
         {
@@ -157,6 +161,37 @@ namespace CHUSHKA.Web.Controllers
             this.productsService.Delete(model.Id);
 
             return this.Redirect("/");
+        }
+        public async Task<IActionResult> Index(string searchString,
+             int? page, string currentFilter, ProductSortState sortOrder = ProductSortState.NameAsc)//, 
+        {
+            var products = from s in db.Products
+                           select s;
+
+
+            ViewData["NameSort"] = sortOrder == ProductSortState.NameAsc ? ProductSortState.NameDesc : ProductSortState.NameAsc;
+            ViewData["PriceSort"] = sortOrder == ProductSortState.PriceAsc ? ProductSortState.PriceDesc : ProductSortState.PriceAsc;
+
+
+            if (searchString != null)
+            {
+                page = 1;
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+            ViewData["CurrentFilter"] = searchString;
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                products = products.Where(s => s.Name.Contains(searchString));
+                
+            }
+
+
+            int pageSize = 3;
+            return View(await PaginatedList<Product>.CreateAsync(products.AsNoTracking(), page ?? 1, pageSize));
+            
         }
     }
 }

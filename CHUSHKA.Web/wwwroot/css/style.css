@@ -43,3 +43,37 @@ footer {
     border: 0;
     width: 98%;
 }
+.inp {
+    width: 250px;
+    height: 42px;
+    padding-left: 15px;
+    border-radius: 42px;
+    outline: none;
+    position: relative;
+    transition: .3s linear;
+}
+
+    .inp:focus {
+        width: 300px;
+    }
+
+
+.search {
+    right: 1px;
+    float: right;
+}
+
+.mybtn {
+    width: 42px;
+    height: 42px;
+    background: none;
+    border: none;
+    position: absolute;
+    top: -2px;
+    right: 0;
+}
+
+    .mybtn:before {
+        content: "\f002";
+        font-family: FontAwesome;
+    }

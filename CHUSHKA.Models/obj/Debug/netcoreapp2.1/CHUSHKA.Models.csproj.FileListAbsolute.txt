@@ -16,3 +16,12 @@ C:/Users/valen/Desktop/CHUSHKA/CHUSHKA.Models/obj/Debug/netcoreapp2.1/CHUSHKA.Mo
 /Users/karatanas/University/Projects/C#/azure-app/CHUSHKA.Models/obj/Debug/netcoreapp2.1/CHUSHKA.Models.AssemblyInfo.cs
 /Users/karatanas/University/Projects/C#/azure-app/CHUSHKA.Models/obj/Debug/netcoreapp2.1/CHUSHKA.Models.dll
 /Users/karatanas/University/Projects/C#/azure-app/CHUSHKA.Models/obj/Debug/netcoreapp2.1/CHUSHKA.Models.pdb
+D:\rem\azure-app\CHUSHKA.Models\bin\Debug\netcoreapp2.1\CHUSHKA.Models.deps.json
+D:\rem\azure-app\CHUSHKA.Models\bin\Debug\netcoreapp2.1\CHUSHKA.Models.dll
+D:\rem\azure-app\CHUSHKA.Models\bin\Debug\netcoreapp2.1\CHUSHKA.Models.pdb
+D:\rem\azure-app\CHUSHKA.Models\obj\Debug\netcoreapp2.1\CHUSHKA.Models.csprojAssemblyReference.cache
+D:\rem\azure-app\CHUSHKA.Models\obj\Debug\netcoreapp2.1\CHUSHKA.Models.csproj.CoreCompileInputs.cache
+D:\rem\azure-app\CHUSHKA.Models\obj\Debug\netcoreapp2.1\CHUSHKA.Models.AssemblyInfoInputs.cache
+D:\rem\azure-app\CHUSHKA.Models\obj\Debug\netcoreapp2.1\CHUSHKA.Models.AssemblyInfo.cs
+D:\rem\azure-app\CHUSHKA.Models\obj\Debug\netcoreapp2.1\CHUSHKA.Models.dll
+D:\rem\azure-app\CHUSHKA.Models\obj\Debug\netcoreapp2.1\CHUSHKA.Models.pdb
