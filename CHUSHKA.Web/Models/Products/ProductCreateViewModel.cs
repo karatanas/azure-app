@@ -32,5 +32,9 @@ namespace CHUSHKA.Web.Models.Products
         public string Type { get; set; }
 
         public ICollection<string> Types { get; set; }
+
+        public byte[] ImageData { get; set; }
+
+        public string ImageMimeType { get; set; }
     }
 }
