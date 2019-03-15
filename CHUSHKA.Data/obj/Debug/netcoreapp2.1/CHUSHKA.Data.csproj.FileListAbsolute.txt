@@ -26,3 +26,17 @@ C:/Users/valen/Desktop/CHUSHKA/CHUSHKA.Data/obj/Debug/netcoreapp2.1/CHUSHKA.Data
 /Users/karatanas/University/Projects/C#/azure-app/CHUSHKA.Data/obj/Debug/netcoreapp2.1/CHUSHKA.Data.csproj.CopyComplete
 /Users/karatanas/University/Projects/C#/azure-app/CHUSHKA.Data/obj/Debug/netcoreapp2.1/CHUSHKA.Data.dll
 /Users/karatanas/University/Projects/C#/azure-app/CHUSHKA.Data/obj/Debug/netcoreapp2.1/CHUSHKA.Data.pdb
+D:\rem\azure-app\CHUSHKA.Data\bin\Debug\netcoreapp2.1\CHUSHKA.Data.deps.json
+D:\rem\azure-app\CHUSHKA.Data\bin\Debug\netcoreapp2.1\CHUSHKA.Data.runtimeconfig.json
+D:\rem\azure-app\CHUSHKA.Data\bin\Debug\netcoreapp2.1\CHUSHKA.Data.runtimeconfig.dev.json
+D:\rem\azure-app\CHUSHKA.Data\bin\Debug\netcoreapp2.1\CHUSHKA.Data.dll
+D:\rem\azure-app\CHUSHKA.Data\bin\Debug\netcoreapp2.1\CHUSHKA.Data.pdb
+D:\rem\azure-app\CHUSHKA.Data\bin\Debug\netcoreapp2.1\CHUSHKA.Models.dll
+D:\rem\azure-app\CHUSHKA.Data\bin\Debug\netcoreapp2.1\CHUSHKA.Models.pdb
+D:\rem\azure-app\CHUSHKA.Data\obj\Debug\netcoreapp2.1\CHUSHKA.Data.csprojAssemblyReference.cache
+D:\rem\azure-app\CHUSHKA.Data\obj\Debug\netcoreapp2.1\CHUSHKA.Data.csproj.CoreCompileInputs.cache
+D:\rem\azure-app\CHUSHKA.Data\obj\Debug\netcoreapp2.1\CHUSHKA.Data.AssemblyInfoInputs.cache
+D:\rem\azure-app\CHUSHKA.Data\obj\Debug\netcoreapp2.1\CHUSHKA.Data.AssemblyInfo.cs
+D:\rem\azure-app\CHUSHKA.Data\obj\Debug\netcoreapp2.1\CHUSHKA.Data.csproj.CopyComplete
+D:\rem\azure-app\CHUSHKA.Data\obj\Debug\netcoreapp2.1\CHUSHKA.Data.dll
+D:\rem\azure-app\CHUSHKA.Data\obj\Debug\netcoreapp2.1\CHUSHKA.Data.pdb
