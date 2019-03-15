@@ -73,7 +73,7 @@ using CHUSHKA.Web.Models;
             WriteLiteral("\n<!DOCTYPE html>\n<html lang=\"en\">\n");
             EndContext();
             BeginContext(74, 503, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ea6b78a7dbf54f878d7e00e6846a58e4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e505e7d37d5f486896589f656734343e", async() => {
                 BeginContext(80, 180, true);
                 WriteLiteral("\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\"\n          content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <title>");
                 EndContext();
@@ -108,12 +108,12 @@ using CHUSHKA.Web.Models;
             WriteLiteral("\n");
             EndContext();
             BeginContext(578, 2752, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a8e7f7101702419896711d04c2b33591", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3dcd84424a534b739b44f15fa7ec01d6", async() => {
                 BeginContext(584, 135, true);
                 WriteLiteral("\n    <div class=\"container-fluid\">\n        <header>\n            <nav class=\"navbar navbar-expand-lg chushka-bg-color\">\n                ");
                 EndContext();
                 BeginContext(719, 102, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "974ff00ee0974d84a90f5515ec14d460", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "077de04e0800441b8bf9976f981dd5e3", async() => {
                     BeginContext(800, 17, false);
 #line 21 "/Users/karatanas/University/Projects/C#/azure-app/CHUSHKA.Web/Views/Shared/_Layout.cshtml"
                                                                                            Write(ViewData["Title"]);
@@ -149,7 +149,7 @@ using CHUSHKA.Web.Models;
                             ");
                 EndContext();
                 BeginContext(1329, 84, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "71926de9a5f94241a763f10fbd1ba61e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "21890f53a38143d389324327205b347d", async() => {
                     BeginContext(1405, 4, true);
                     WriteLiteral("Home");
                     EndContext();
@@ -183,7 +183,7 @@ using CHUSHKA.Web.Models;
                 WriteLiteral("                            <li class=\"nav-item\">\n                                ");
                 EndContext();
                 BeginContext(1613, 86, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8332a81039d84ca8a98be7f85343f843", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3dabd130c624413e84fa417f4fa734ed", async() => {
                     BeginContext(1690, 5, true);
                     WriteLiteral("Login");
                     EndContext();
@@ -208,7 +208,7 @@ using CHUSHKA.Web.Models;
                 WriteLiteral("\n                            </li>\n                            <li class=\"nav-item\">\n                                ");
                 EndContext();
                 BeginContext(1816, 92, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7c3f96c0f0bb4e19b7e6d9c688f4ca53", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8c604b2fa4474995afc8a5e7223cefd6", async() => {
                     BeginContext(1896, 8, true);
                     WriteLiteral("Register");
                     EndContext();
@@ -244,7 +244,7 @@ using CHUSHKA.Web.Models;
                 WriteLiteral("                            <li class=\"nav-item\">\n                                ");
                 EndContext();
                 BeginContext(2168, 99, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "119e39da916046cb97af7122389189cd", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "07149c11152e403ab4c9836cf39d96b3", async() => {
                     BeginContext(2249, 14, true);
                     WriteLiteral("Create Product");
                     EndContext();
@@ -269,7 +269,7 @@ using CHUSHKA.Web.Models;
                 WriteLiteral("\n                            </li>\n                            <li class=\"nav-item\">\n                                ");
                 EndContext();
                 BeginContext(2384, 90, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83e88466c7bd4246bf811a231a834a6c", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a3a5fc992cce4ce9818f5986eb06f4de", async() => {
                     BeginContext(2460, 10, true);
                     WriteLiteral("All Orders");
                     EndContext();
@@ -311,7 +311,7 @@ using CHUSHKA.Web.Models;
                 WriteLiteral("                        <ul class=\"navbar-nav left-side\">\n                            <li class=\"nav-item\">\n                                ");
                 EndContext();
                 BeginContext(2780, 88, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6b00e6a041874ce7a03e8c30ca90d072", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7a757965b6b94fd883c5a27aa8c7eb89", async() => {
                     BeginContext(2858, 6, true);
                     WriteLiteral("Logout");
                     EndContext();

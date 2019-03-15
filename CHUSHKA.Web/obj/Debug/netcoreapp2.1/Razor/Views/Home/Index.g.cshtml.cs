@@ -126,7 +126,7 @@ using CHUSHKA.Web.Models;
             WriteLiteral("                ");
             EndContext();
             BeginContext(706, 72, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c12f425eaa3d4850bd2ea70eff62873f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "16727b4c1b9f4a06b986983a42a95996", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -169,7 +169,7 @@ else
             WriteLiteral("    <div class=\"jumbotron mt-3 chushka-bg-color\">\n        <h1>Welcome to Chushka Universal Web Shop</h1>\n        <hr class=\"bg-white\" />\n        <h3>");
             EndContext();
             BeginContext(977, 76, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6d705228720243489b1008bb91461c7c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b23e12139a064695bfa101938d4706e5", async() => {
                 BeginContext(1044, 5, true);
                 WriteLiteral("Login");
                 EndContext();
@@ -194,7 +194,7 @@ else
             WriteLiteral(" if you have an account.</h3>\n        <h3>");
             EndContext();
             BeginContext(1095, 82, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "df8e0e511a93457b9aa98cfc59925e17", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2b23f5bd389248a5ad77eaf44d5c4bc0", async() => {
                 BeginContext(1165, 8, true);
                 WriteLiteral("Register");
                 EndContext();
