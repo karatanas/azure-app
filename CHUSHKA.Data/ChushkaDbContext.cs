@@ -33,5 +33,7 @@ namespace CHUSHKA.Data
 
             base.OnModelCreating(builder);
         }
+
+
     }
 }

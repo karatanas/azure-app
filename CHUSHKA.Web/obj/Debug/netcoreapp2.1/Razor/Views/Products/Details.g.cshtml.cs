@@ -99,7 +99,7 @@ using CHUSHKA.Web.Models;
             WriteLiteral("\n    </p>\n</div>\n<hr class=\"hr-2 bg-dark\" />\n<h3 class=\"text-center\">Actions</h3>\n<div class=\"product-action-holder mt-4 half-width mx-auto d-flex justify-content-around\">\n    ");
             EndContext();
             BeginContext(670, 109, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf131f6a263a45739a106d01af217ea2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8c4e41c45e494e1393274aa09b8f1e1b", async() => {
                 BeginContext(770, 5, true);
                 WriteLiteral("Order");
                 EndContext();
@@ -146,7 +146,7 @@ using CHUSHKA.Web.Models;
             WriteLiteral("        ");
             EndContext();
             BeginContext(860, 109, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7ca4cf3b7c47424f9288482e60e9f7a9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8ed55b04cfab4f99b78f212e85f1f732", async() => {
                 BeginContext(961, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -184,7 +184,7 @@ using CHUSHKA.Web.Models;
             WriteLiteral("\n        ");
             EndContext();
             BeginContext(978, 113, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c87355f0bdd647a5853e14090e3fb0ae", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7fa203e6cfd3404f926743430db5c855", async() => {
                 BeginContext(1081, 6, true);
                 WriteLiteral("Delete");
                 EndContext();
