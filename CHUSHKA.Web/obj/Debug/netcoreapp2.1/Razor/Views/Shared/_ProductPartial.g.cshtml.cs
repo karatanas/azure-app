@@ -56,7 +56,7 @@ using CHUSHKA.Web.Models;
             WriteLiteral("\r\n<div class=\"product p-1 chushka-bg-color rounded-top rounded-bottom\">\r\n    ");
             EndContext();
             BeginContext(134, 514, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ee9c90799aa243f7a780484a14b2da5c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f8c2384b16424e2a873055e6d84812d4", async() => {
                 BeginContext(226, 122, true);
                 WriteLiteral("\r\n        <div class=\"product p-1 chushka-bg-color rounded-top rounded-bottom\">\r\n            <h5 class=\"text-center mt-3\">");
                 EndContext();

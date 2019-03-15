@@ -1,4 +1,21 @@
-﻿@model ICollection<CHUSHKA.Web.Models.Products.ProductInfoViewModel>
+﻿
+@model ICollection<CHUSHKA.Web.Models.Products.ProductInfoViewModel>
+
+
+@using CHUSHKA.Web.Models
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form class="search" asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            <input class="inp search" type="text" name="SearchString" value="@ViewData["currentFilter"]" />
+
+        </p>
+    </div>
+</form>
+
 
 @if (User.Identity.IsAuthenticated)
 {
